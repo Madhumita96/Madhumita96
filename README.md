@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👩‍💻 Madhumita Halder – Technical Writer
 
-<!--
-**Madhumita96/Madhumita96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Madhumita, a technical writer with 5 years of experience working on user manuals, API guides, and product documentation.
 
-Here are some ideas to get you started:
+## 🔧 Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ [Hoppscotch Documentation](https://github.com/hoppscotch/docs/pull/123) – Beginner API Guide
+- 🚧 [Feeder RSS Guide](https://github.com/.../pull/xyz) – coming soon!
+
+## 💼 Portfolio Goals
+
+- Contribute to 5+ API/Doc projects
+- Build clean, MSTP-aligned content
+- Explore DITA/XML projects
