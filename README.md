@@ -5,7 +5,8 @@ Hi! I'm Madhumita, a technical writer with 5 years of experience working on user
 ## 🔧 Open Source Contributions
 
 - ✅ [Hoppscotch Documentation](https://github.com/hoppscotch/docs/pull/123) – Beginner API Guide
-- 🚧 [Feeder RSS Guide](https://github.com/.../pull/xyz) – coming soon!
+- ✅ [Feeder API Documentation](https://github.com/Madhumita96/feeder-api/pull/1) – Beginner API Guide (OAuth2, curl usage)
+
 
 ## 💼 Portfolio Goals
 
